@@ -1,0 +1,374 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:60:9-68:20
+	android:grantUriPermissions
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:64:13-47
+	android:authorities
+		INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:62:13-60
+	android:exported
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:61:13-67
+manifest
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:2:1-71:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b6f12e095663b1295b3edc958847781a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/024d557b1700fa39c0f1a6cd16f8e68a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/51fbcae44975996f4a02669ec176c8ea/AndroidManifest.xml:17:1-22:12
+MERGED from [:] /Users/user/Documents/AndroidStudioProjects/Android_/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/bd4b529af673b0417f9c68ed7dbcb0ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/aca2db97e0426fb9f0bc7dd3187cd9d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/32e4d1d4285125873f78ce1b6a2c5073/AndroidManifest.xml:17:1-22:12
+MERGED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:5:1-91:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d6cebe29988de3024cd85da6710fd73c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/9a7bbe1c12900bd663b10957d5d027f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/a38a92d1003446034b509ba77457f9db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/5d4755308e933ecd7ef7de4a5b8c18c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/e685e58a58d423d0baaaeeda1d2679f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/e9439cf47ffe20fceb0ee73b60de81b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/103236b540cfe0bc8759dd629d600e42/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/02f9b5a34f4de9aaf330c01b5d012ac5/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.EAC
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:11:5-62
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:11:22-59
+application
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:13:5-69:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b6f12e095663b1295b3edc958847781a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b6f12e095663b1295b3edc958847781a/AndroidManifest.xml:9:5-20
+MERGED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:14:5-89:19
+MERGED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:14:5-89:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/02f9b5a34f4de9aaf330c01b5d012ac5/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/02f9b5a34f4de9aaf330c01b5d012ac5/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:17:9-51
+	android:largeHeap
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:18:9-33
+	android:icon
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:15:9-46
+	android:allowBackup
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:19:9-65
+activity#com.kofax.samples.mobilecapturedemo.SettingsActivity
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:20:9-23:47
+	android:label
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:22:13-60
+	android:theme
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:21:13-45
+activity#com.kofax.samples.mobilecapturedemo.MainActivity
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:24:9-34:20
+	android:label
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:27:13-45
+	android:configChanges
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:26:13-48
+	android:theme
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:28:13-69
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:32:27-74
+activity#com.kofax.samples.mobilecapturedemo.CaptureActivity
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:35:9-39:72
+	android:parentActivityName
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:38:13-55
+	android:label
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:37:13-59
+	android:theme
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:36:13-44
+activity#com.kofax.samples.mobilecapturedemo.PreviewActivity
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:40:9-45:72
+	android:parentActivityName
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:44:13-58
+	android:label
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:42:13-59
+	android:configChanges
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:43:13-74
+	android:theme
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:45:13-69
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:41:13-44
+activity#com.kofax.samples.mobilecapturedemo.ProcessImageActivity
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:46:9-50:72
+	android:parentActivityName
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:49:13-58
+	android:label
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:48:13-65
+	android:theme
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:50:13-69
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:47:13-49
+activity#com.kofax.samples.mobilecapturedemo.AboutActivity
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:51:9-55:72
+	android:label
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:53:13-57
+	android:configChanges
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:54:13-48
+	android:theme
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:55:13-69
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:52:13-42
+activity#com.kofax.samples.mobilecapturedemo.LicenseAgreementActivity
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:56:9-59:71
+	android:label
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:58:13-69
+	android:theme
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:59:13-69
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:57:13-53
+uses-sdk
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b6f12e095663b1295b3edc958847781a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/user/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b6f12e095663b1295b3edc958847781a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/024d557b1700fa39c0f1a6cd16f8e68a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/024d557b1700fa39c0f1a6cd16f8e68a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/51fbcae44975996f4a02669ec176c8ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/51fbcae44975996f4a02669ec176c8ea/AndroidManifest.xml:20:5-44
+MERGED from [:] /Users/user/Documents/AndroidStudioProjects/Android_/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:] /Users/user/Documents/AndroidStudioProjects/Android_/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/bd4b529af673b0417f9c68ed7dbcb0ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/bd4b529af673b0417f9c68ed7dbcb0ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/aca2db97e0426fb9f0bc7dd3187cd9d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/aca2db97e0426fb9f0bc7dd3187cd9d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/32e4d1d4285125873f78ce1b6a2c5073/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/32e4d1d4285125873f78ce1b6a2c5073/AndroidManifest.xml:20:5-44
+MERGED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:10:5-12:41
+MERGED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:10:5-12:41
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d6cebe29988de3024cd85da6710fd73c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/d6cebe29988de3024cd85da6710fd73c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/9a7bbe1c12900bd663b10957d5d027f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/9a7bbe1c12900bd663b10957d5d027f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/a38a92d1003446034b509ba77457f9db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/a38a92d1003446034b509ba77457f9db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/5d4755308e933ecd7ef7de4a5b8c18c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/5d4755308e933ecd7ef7de4a5b8c18c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/e685e58a58d423d0baaaeeda1d2679f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/e685e58a58d423d0baaaeeda1d2679f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/e9439cf47ffe20fceb0ee73b60de81b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/e9439cf47ffe20fceb0ee73b60de81b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/103236b540cfe0bc8759dd629d600e42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/103236b540cfe0bc8759dd629d600e42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/02f9b5a34f4de9aaf330c01b5d012ac5/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/02f9b5a34f4de9aaf330c01b5d012ac5/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:65:13-67:57
+	android:resource
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:67:17-55
+	android:name
+		ADDED from /Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/src/main/AndroidManifest.xml:66:17-67
+activity#com.kofax.mobile.sdk.capture.check.CheckExtractActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:15:9-18:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:18:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:16:13-83
+activity#com.kofax.mobile.sdk.capture.check.CheckCaptureActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:19:9-22:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:22:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:21:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:20:13-83
+activity#com.kofax.mobile.sdk.capture.check.CheckWorkflowActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:23:9-26:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:26:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:25:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:24:13-84
+activity#com.kofax.mobile.sdk.capture.ImageReviewActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:27:9-30:52
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:30:13-49
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:28:13-76
+activity#com.kofax.mobile.sdk.capture.ProcessActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:31:9-34:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:34:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:33:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:32:13-72
+activity#com.kofax.mobile.sdk.capture.bill.BillExtractActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:35:9-38:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:38:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:37:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:36:13-81
+activity#com.kofax.mobile.sdk.capture.bill.BillCaptureActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:39:9-42:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:42:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:41:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:40:13-81
+activity#com.kofax.mobile.sdk.capture.bill.BillWorkflowActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:43:9-46:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:46:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:44:13-82
+activity#com.kofax.mobile.sdk.capture.id.IdExtractActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:47:9-50:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:50:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:48:13-77
+activity#com.kofax.mobile.sdk.capture.id.IdCaptureActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:51:9-54:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:54:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:53:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:52:13-77
+activity#com.kofax.mobile.sdk.capture.id.IdCaptureBackActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:55:9-58:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:58:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:57:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:56:13-81
+activity#com.kofax.mobile.sdk.capture.id.IdWorkflowActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:59:9-62:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:62:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:60:13-78
+activity#com.kofax.mobile.sdk.capture.passport.PassportExtractActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:63:9-66:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:66:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:65:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:64:13-89
+activity#com.kofax.mobile.sdk.capture.passport.PassportCaptureActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:67:9-70:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:70:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:69:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:68:13-89
+activity#com.kofax.mobile.sdk.capture.passport.PassportWorkflowActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:71:9-74:53
+	android:screenOrientation
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:74:13-50
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:73:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:72:13-90
+activity#com.kofax.mobile.sdk.capture.creditcard.CreditCardWorkflowActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:75:9-77:77
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:77:13-74
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:76:13-94
+activity#com.kofax.mobile.sdk.capture.creditcard.CardIoWrapperActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:78:9-98
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:78:19-95
+activity#io.card.payment.CardIOActivity
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:79:9-81:66
+	android:configChanges
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:81:13-63
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:80:13-58
+meta-data#roboguice.annotations.packages
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:83:9-85:41
+	android:value
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:85:13-38
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:84:13-58
+meta-data#roboguice.modules
+ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:86:9-88:71
+	android:value
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:88:13-68
+	android:name
+		ADDED from [:sdk-release:] /Users/user/.gradle/caches/transforms-1/files-1.1/sdk-release.aar/967000a564818f9d4e218615021aa74c/AndroidManifest.xml:87:13-45
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/02f9b5a34f4de9aaf330c01b5d012ac5/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/02f9b5a34f4de9aaf330c01b5d012ac5/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/user/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/02f9b5a34f4de9aaf330c01b5d012ac5/AndroidManifest.xml:26:13-58

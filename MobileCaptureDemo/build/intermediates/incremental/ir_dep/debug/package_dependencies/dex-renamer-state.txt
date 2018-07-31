@@ -1,0 +1,4 @@
+#Tue Jul 31 08:03:31 EDT 2018
+base.0=/Users/user/Documents/AndroidStudioProjects/Android_/MobileCaptureDemo/build/intermediates/transforms/dexMerger/debug/11
+path.0=classes.dex
+renamed.0=classes.dex

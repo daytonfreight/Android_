@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kofax.samples.mobilecapturedemo"
+    android:versionCode="2"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.EAC" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/capture_icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/capture_icon"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity
+            android:name="com.kofax.samples.mobilecapturedemo.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.kofax.samples.mobilecapturedemo.MainActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.kofax.samples.mobilecapturedemo.CaptureActivity"
+            android:label="@string/title_activity_capture"
+            android:parentActivityName="com.kofax.samples.mobilecapturedemo.MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.kofax.samples.mobilecapturedemo.PreviewActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/title_activity_preview"
+            android:parentActivityName="com.kofax.samples.mobilecapturedemo.CaptureActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.kofax.samples.mobilecapturedemo.ProcessImageActivity"
+            android:label="@string/title_activity_process_image"
+            android:parentActivityName="com.kofax.samples.mobilecapturedemo.PreviewActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.kofax.samples.mobilecapturedemo.AboutActivity"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_about"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.kofax.samples.mobilecapturedemo.LicenseAgreementActivity"
+            android:label="@string/title_activity_license_agreement"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.kofax.samples.mobilecapturedemo.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.check.CheckExtractActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.check.CheckCaptureActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.check.CheckWorkflowActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.ImageReviewActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.ProcessActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.bill.BillExtractActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.bill.BillCaptureActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.bill.BillWorkflowActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.id.IdExtractActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.id.IdCaptureActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.id.IdCaptureBackActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.id.IdWorkflowActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.passport.PassportExtractActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.passport.PassportCaptureActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.passport.PassportWorkflowActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.kofax.mobile.sdk.capture.creditcard.CreditCardWorkflowActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity android:name="com.kofax.mobile.sdk.capture.creditcard.CardIoWrapperActivity" />
+        <activity
+            android:name="io.card.payment.CardIOActivity"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <meta-data
+            android:name="roboguice.annotations.packages"
+            android:value="com.kofax" />
+        <meta-data
+            android:name="roboguice.modules"
+            android:value="com.kofax.mobile.sdk.capture.MainModule" />
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.0" />
+    </application>
+
+</manifest>
